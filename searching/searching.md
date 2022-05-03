@@ -3,11 +3,17 @@
 - linear / sequential search
   - when array is unsorted.
   - check every element one by one untile search found.
-  - Big O -> O(n)
+  - big O
+    - best case : O(1)
+    - average : O(n)
+    - worst : O(n)
 
 <br>
 
 - binary search
   - when array is sorted.
-  - faster and linear search .
-  - check less than 30% elements in array.
+  - divide and conquer method.
+  - faster and linear search.
+  - big O
+    - best : O(1)
+    - worst : Olog(n)
