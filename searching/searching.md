@@ -19,6 +19,8 @@
     - best : O(1)
     - worst : Olog(n)
 
+<br>
+
 - KMP (Knuth Morris Pratt) Pattern Searching
   - use to search substring in string.
   - two pointer method.
